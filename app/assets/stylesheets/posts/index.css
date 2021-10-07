@@ -22,7 +22,7 @@
 .main-left{
   height: 80%;
   width: 20%;
-  background-color: bisque;
+  background-color: #F2EBC4;
 }
 
 .main-center{
@@ -34,5 +34,5 @@
 .main-right{
   height: 80%;
   width: 20%;
-  background-color: violet;
+  background-color: #D96C6C;
 }
