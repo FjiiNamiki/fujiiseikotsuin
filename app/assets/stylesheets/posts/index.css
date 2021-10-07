@@ -11,3 +11,28 @@
   height: 5%;
   justify-content: center;
 }
+
+.main{
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-left{
+  height: 80%;
+  width: 20%;
+  background-color: bisque;
+}
+
+.main-center{
+  height: 80%;
+  width: 60%;
+  background-color: white;
+}
+
+.main-right{
+  height: 80%;
+  width: 20%;
+  background-color: violet;
+}
